@@ -2,6 +2,7 @@
 <title>Julien D'Ascenzio's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Merchant (Level 6)</title><description>Added an external repository with git remote add.</description></item>
 <item><title>Master Socialite (Level 11)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
 <item><title>Master Miller (Level 12)</title><description>Add only part of a file to the stage 5777 times with git add -p.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Librarian</title><description>Looked for change that introduce or remove a string with git log -S</description></item>
 <item><title>Apprentice Gardner (Level 3)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
 <item><title>Apprentice Gardner (Level 2)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
-<item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
 </channel></rss>
