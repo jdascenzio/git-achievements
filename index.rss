@@ -2,6 +2,7 @@
 <title>Julien D'ascenzio's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Master Thug (Level 9)</title><description>Forced pushed a branch with git push -f</description></item>
 <item><title>Master Stone Mason (Level 14)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
 <item><title>Archivist (Level 5)</title><description>Prepare each commit with its patch in one file per commit with git format-patch</description></item>
 <item><title>Master Historian (Level 13)</title><description>Investigate the commit log using git log.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Master Butcher (Level 11)</title><description>Performed an interactive rebase using git rebase -i.</description></item>
 <item><title>Master Miller (Level 13)</title><description>Add only part of a file to the stage 11306 times with git add -p.</description></item>
 <item><title>Master Historian (Level 12)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Cathedral Architect (Level 5)</title><description>Added a submodule to a repository.</description></item>
 </channel></rss>
